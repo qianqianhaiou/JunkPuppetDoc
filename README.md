@@ -1,0 +1,2 @@
+# JunkPuppetDoc
+JunkPuppet Document
