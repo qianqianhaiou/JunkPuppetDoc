@@ -14,7 +14,7 @@
 如果下载速度慢或进不去 GitHub，可以使用[Gitee Releases Page](https://gitee.com/sunsilent/JunkPuppet/releases)
 
 ## 说明书
-### **完整文档** 请查看 [**https://sunsilent.gitee.io/junk-puppet-doc/**](https://sunsilent.gitee.io/junk-puppet-doc/)
+### **完整文档** 请查看 [**https://qianqianhaiou.github.io/JunkPuppetDoc/**](https://qianqianhaiou.github.io/JunkPuppetDoc/)
 
 ## 软件截图
 ![img](./docs/user-guide/images/app-list.png)
