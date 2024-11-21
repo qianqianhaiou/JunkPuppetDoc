@@ -26,6 +26,7 @@ export default defineConfig({
   description:
     "拾荒木偶 基于Electron+Puppeteer的可视化爬虫，无任何依赖。可视化浏览器自动化任务/采集/无代码/图形化/开源/操作简单/对抗反爬",
   head: [["link", { rel: "icon", href: "/JunkPuppetDoc/images/robot.ico" }]],
+  appearance: 'dark',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     search: {
